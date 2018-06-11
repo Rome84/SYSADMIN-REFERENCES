@@ -5,51 +5,62 @@ server administration
 	___whole system reference
 		https://www.slideshare.net/JuliaEvans8/so-you-want-to-be-a-wizard-73101468
 		http://infrastructure.blueprint.org/
+		
 		lectures
 			http://www.infoq.com/presentations/scaling-operations-facebook
 		https://ops-school.readthedocs.org/en/latest/config_management.html
 		http://www.damnsmalllinux.org/income-guide/intro.html
+		
 		ops school
 			https://github.com/opsschool/curriculum
 			http://www.opsschool.org/en/latest/
 			https://news.ycombinator.com/item?id=9420476
+		
 		Notes on Google's Site Reliability Engineering book
 			http://danluu.com/google-sre-book/
 			https://news.ycombinator.com/item?id=11474002
+		
 		the architecture of open source applications
 			http://aosabook.org/en/index.html
-	___other lists
+	___
+	other lists
 		https://github.com/kahun/awesome-sysadmin
 		http://pythonhackers.com/p/harisekhon/my-links
 		http://www.devopsbookmarks.com/
+	
 	___conferences
 		http://devopsconferences.com/78/config-management-camp
-		___videos
-			devops enterprise summit
+		
+		___videosdevops enterprise summit
 			http://video.fosdem.org/2016/h2214/
 			https://www.ansible.com/ansiblefest
+			
 			pycon 2016
 				https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw
+			
 			grafanacon 2016
 				https://www.youtube.com/playlist?list=PLDGkOdUX1Ujp_6OnJ8M-t59eGPs0rZF4Q
+	
 	certifications
 		bsd
 			bsd associate
 				http://www.bsdcertification.org/certification/certification/bsd-associate
 			bsd professional
+		
 		linux
-			linux +
-			lpic
-			ubuntu
-				ucp
-			red hat
-				https://checkvist.com/checklists/188568/tasks/9192656
+	        linux +
+		lpic
+		ubuntu
+		ucp
+		red hat
+				
+                https://checkvist.com/checklists/188568/tasks/9192656
 				rhcsa
 				rhce
 				rhca
 		mac
 		windows
-	CDN's
+	        CDN's
 		akamai
 		cloudflare
 		rackspace cdn
